@@ -1,0 +1,29 @@
+/* Write your CSS code here */
+.wave-div {
+  display: flex;
+  flex-direction: row;
+  margin-left: 30px;
+  align-items: center;
+  justify-content: space-between;
+  font-family: roboto;
+}
+.nav-links-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-family: roboto;
+  width: 300px;
+  margin-right: 30px;
+}
+.nav-container {
+  
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-family: roboto;
+}
+.img {
+  height: 40px;
+  width: 40px;
+  margin-right: 10px;
+}
